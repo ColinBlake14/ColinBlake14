@@ -4,6 +4,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=colinblake14&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=colinblake14&theme=solarized_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinblake14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ColinBlake14/ColinBlake14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
