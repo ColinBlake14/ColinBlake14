@@ -1,10 +1,8 @@
 <h1 align="center">Привет, я <a href="https://pbs.twimg.com/media/EQBjlx6X0AA492-.jpg" target="_blank">Кирилл</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Начинающий+фронтенд-разработчик)](https://git.io/typing-svg)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=colinblake14&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=colinblake14&theme=solarized_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinblake14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ColinBlake14/ColinBlake14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
